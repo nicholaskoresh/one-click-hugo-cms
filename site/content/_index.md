@@ -1,20 +1,36 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: Nicholas Koresh
+subtitle: Blog, Python, and Cybersecurity
+image: img/00.png
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
-intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
-products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
-values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
----
+  heading: Who am i ?
+  text: >-
+    Welcome to my little corner on the internet, my digital home away from home,
+    a place where I share my learnings and explorations. I'm Nicholas Koresh,
+    just your ordinary 14-year-old with an extraordinary interest in Python and
+    cybersecurity.
 
+
+    Although I'm still in the early stages of my learning journey, I've developed a passion for coding and understanding the intricate web of online security. Ever since I discovered Python, I've been mesmerized by its simplicity and power. Couple that with my curiosity about cybersecurity, and you get the driving force behind my persistent journey towards understanding the digital world better.
+intro:
+  heading: Passion for Python and Cybersecurity
+  text: >-
+    This blog serves as my canvas to paint my thoughts, ideas, and discoveries.
+    Here, I'll be sharing my experiences learning Python, diving into the depth
+    of cybersecurity, and much more. I'll be penning down the exciting, the
+    challenging, and the mind-boggling aspects of my journey.
+
+
+    I believe in the power of shared learning, and this is why I decided to start this blog - to chronicle my journey and, hopefully, provide some insights for others embarking on similar paths. I'll be writing frequently, sharing tidbits of knowledge, cool projects, and interesting discoveries.
+products: []
+values:
+  heading: Join Me on this Journey of Learning and Growing
+  text: >-
+    So, whether you're a seasoned coder, a beginner eager to learn, or simply an
+    internet wanderer, I hope you find something valuable here. Your feedback,
+    comments, and suggestions are more than welcome; they are, in fact, an
+    essential part of this exciting journey.
+
+
+    Please feel free to explore, read, and engage. Let's embark on this journey of learning and growing together!
+---
