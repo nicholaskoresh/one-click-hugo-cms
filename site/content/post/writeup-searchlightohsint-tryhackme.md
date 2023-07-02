@@ -1,5 +1,5 @@
 ---
-title: Writeup SearchLightOhsint TryHackMe
+title: Writeup Ohsint TryHackMe
 date: 2023-07-02T10:25:54.657Z
 description: This is my write up in Ohsint challenge in TryHackMe
 ---
