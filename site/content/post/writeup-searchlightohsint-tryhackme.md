@@ -2,6 +2,7 @@
 title: Writeup Ohsint TryHackMe
 date: 2023-07-02T10:25:54.657Z
 description: This is my write up in Ohsint challenge in TryHackMe
+image: https://miro.medium.com/v2/resize:fit:1100/format:webp/1*0d-Y_6yV3YVanQh07guu7w.png
 ---
 ***Number 1***: search in google "OWoodflint", and you will find a Twitter with a cat as a photo profile/Avatar.
 *The answer is*: **Cat**
